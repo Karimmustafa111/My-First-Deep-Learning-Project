@@ -33,7 +33,7 @@ Here is how the model performs on real data:
 
 | Training Accuracy Curve | Model Prediction Sample |
 |:-----------------------:|:-----------------------:|
-| ![Loss Curve](training_accuracy_Chart.png) | ![Prediction](prediction_sample.png) |
+| ![Loss Curve](training_accuracy_Chart.pn) | ![Prediction](prediction_sample.png) |
 *(The model correctly identifies a Coat vs. a Dress)*
 
 ---
