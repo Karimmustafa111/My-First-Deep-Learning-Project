@@ -31,7 +31,7 @@ A Computer Vision model capable of classifying articles of clothing into 10 dist
 #### 📊 Visualizations
 Here is how the model performs on real data:
 
-| Training Accuracy Curve | Model Prediction Sample |
+| Model Prediction Sample | Training Accuracy Curve |
 |:-----------------------:|:-----------------------:|
 | ![Prediction](prediction_sample.png) | ![Loss Curve](celsius_to_fahrenhiet.png) |
 *(The model correctly identifies a Coat vs. a Dress)*
