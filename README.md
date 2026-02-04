@@ -43,10 +43,10 @@ An advanced Computer Vision model capable of classifying clothing articles into 
 #### 📊 Visualizations
 Here is how the model performs on real data:
 
-| Model Prediction Sample | Training Accuracy Curve |
-|:-----------------------:|:-----------------------:|
-| ![Prediction](prediction_sample.png) | ![Loss Curve](celsius_to_fahrenhiet.png) |
-*(The model correctly identifies a Coat vs. a Dress)*
+| Training Curve | Training Sample | Prediction Sample
+|:---:|:---:|:---:|
+| ![Loss](celsius_to_fahrenhiet.png) | ![Acu](training_accuracy_Chart.png) | ![Pred](prediction_sample.png)
+| *Accuracy increasing* | *Correctly identified Coat* | *Prediction Dress* |
 
 ---
 
