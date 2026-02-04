@@ -45,7 +45,7 @@ Here is how the model performs on real data:
 
 | Model Prediction Sample | Training Accuracy Curve |
 |:-----------------------:|:-----------------------:|
-| ![Prediction](training_accuray_Chart.png) | ![Loss Curve](celsius_to_fahrenhiet.png) |
+| ![Prediction](prediction_sample.png) | ![Loss Curve](celsius_to_fahrenhiet.png) |
 *(The model correctly identifies a Coat vs. a Dress)*
 
 ---
