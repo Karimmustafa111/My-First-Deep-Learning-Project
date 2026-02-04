@@ -23,6 +23,14 @@ A simple Neural Network designed to discover the physical relationship between C
 ### 2️⃣ Fashion MNIST Classifier 👕👟
 **File:** `fashion_vision.py`
 
+A Computer Vision model capable of classifying articles of clothing into 10 distinct categories (T-shirts, Sneakers, Coats, etc.).
+* **Dataset:** Fashion MNIST (70,000 grayscale images).
+* **Architecture:** Deep Neural Network (Flatten -> Dense 128 (ReLU) -> Dense 10 (Softmax)).
+* **Performance:** Achieved **~89% accuracy** on unseen test data.
+
+### 3️⃣ Fashion MNIST Classifier (CNN Version) 👕👟
+**File:** `fashion_mnist_classifier.py`
+
 An advanced Computer Vision model capable of classifying clothing articles into 10 categories (T-shirts, Sneakers, Coats, etc.) with high accuracy.
 
 * **Dataset:** Fashion MNIST (70,000 grayscale images).
@@ -31,14 +39,6 @@ An advanced Computer Vision model capable of classifying clothing articles into 
     * Uses `MaxPooling2D` for dimensionality reduction.
     * Ends with `Dense` layers for classification.
 * **Performance:** Achieved **~91% accuracy** on unseen test data (Significantly outperforming standard Dense networks).
-
-A Computer Vision model capable of classifying articles of clothing into 10 distinct categories (T-shirts, Sneakers, Coats, etc.).
-* **Dataset:** Fashion MNIST (70,000 grayscale images).
-* **Architecture:** Deep Neural Network (Flatten -> Dense 128 (ReLU) -> Dense 10 (Softmax)).
-* **Performance:** Achieved **~89% accuracy** on unseen test data.
-
-### 3️⃣ Fashion MNIST Classifier (CNN Version) 👕👟
-**File:** `fashion_mnist_classifier.py`
 
 #### 📊 Visualizations
 Here is how the model performs on real data:
